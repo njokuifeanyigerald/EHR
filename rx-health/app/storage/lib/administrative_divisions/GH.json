@@ -1,0 +1,883 @@
+{
+    "division_name": "Local Government Area",
+    "divisions": {
+        "AH": [
+            {
+                "name": "Adansi North District",
+                "code": "A1"
+            },
+            {
+                "name": "Adansi South District",
+                "code": "A2"
+            },
+            {
+                "name": "Afigya-Kwabre District",
+                "code": "A3"
+            },
+            {
+                "name": "Ahafo Ano North District",
+                "code": "A4"
+            },
+            {
+                "name": "Ahafo Ano South District",
+                "code": "A5"
+            },
+            {
+                "name": "Amansie Central District",
+                "code": "A6"
+            },
+            {
+                "name": "Amansie West District",
+                "code": "A7"
+            },
+            {
+                "name": "Asante Akim Central Municipal District",
+                "code": "A8"
+            },
+            {
+                "name": "Asante Akim North District",
+                "code": "A9"
+            },
+            {
+                "name": "Asante Akim South District",
+                "code": "A10"
+            },
+            {
+                "name": "Asokore Mampong Municipal District",
+                "code": "A11"
+            },
+            {
+                "name": "Atwima Kwanwoma District",
+                "code": "A12"
+            },
+            {
+                "name": "Atwima Mponua District",
+                "code": "A13"
+            },
+            {
+                "name": "Atwima Nwabiagya District",
+                "code": "A14"
+            },
+            {
+                "name": "Bekwai Municipal District",
+                "code": "A15"
+            },
+            {
+                "name": "Bosome Freho District",
+                "code": "A16"
+            },
+            {
+                "name": "Botsomtwe District",
+                "code": "A17"
+            },
+            {
+                "name": "Ejisu-Juaben Municipal District",
+                "code": "A18"
+            },
+            {
+                "name": "Ejura - Sekyedumase District",
+                "code": "A19"
+            },
+            {
+                "name": "Kumasi Metropolitan District",
+                "code": "A20"
+            },
+            {
+                "name": "Kumawu District",
+                "code": "A21"
+            },
+            {
+                "name": "Kwabre East District",
+                "code": "A22"
+            },
+            {
+                "name": "Mampong Municipal District",
+                "code": "A23"
+            },
+            {
+                "name": "Obuasi Municipal District",
+                "code": "A24"
+            },
+            {
+                "name": "Offinso North District",
+                "code": "A25"
+            },
+            {
+                "name": "Offinso South Municipal District",
+                "code": "A26"
+            },
+            {
+                "name": "Sekyere Afram Plains District",
+                "code": "A27"
+            },
+            {
+                "name": "Sekyere Central District",
+                "code": "A28"
+            },
+            {
+                "name": "Sekyere East District",
+                "code": "A29"
+            },
+            {
+                "name": "Sekyere South District",
+                "code": "A30"
+            }
+        ],
+        "AF": [
+            {
+                "name": "Asunafo North Municipal District",
+                "code": "AF1"
+            },
+            {
+                "name": "Asunafo South District",
+                "code": "AF2"
+            },
+            {
+                "name": "Asutifi District",
+                "code": "AF3"
+            },
+            {
+                "name": "Asutifi South District",
+                "code": "AF4"
+            },
+            {
+                "name": "Atebubu-Amantin District",
+                "code": "AF5"
+            },
+            {
+                "name": "Banda District",
+                "code": "AF6"
+            },
+            {
+                "name": "Berekum Municipal District",
+                "code": "AF7"
+            },
+            {
+                "name": "Dormaa East District",
+                "code": "AF8"
+            },
+            {
+                "name": "Dormaa Municipal District",
+                "code": "AF9"
+            },
+            {
+                "name": "Dormaa West District",
+                "code": "AF10"
+            },
+            {
+                "name": "Jaman North District",
+                "code": "AF11"
+            },
+            {
+                "name": "Jaman South District",
+                "code": "AF12"
+            },
+            {
+                "name": "Kintampo North Municipal District",
+                "code": "AF13"
+            },
+            {
+                "name": "Kintampo South District",
+                "code": "AF14"
+            },
+            {
+                "name": "Nkoranza North District",
+                "code": "AF15"
+            },
+            {
+                "name": "Nkoranza South Municipal District",
+                "code": "AF16"
+            },
+            {
+                "name": "Pru District",
+                "code": "AF1"
+            },
+            {
+                "name": "Sene District",
+                "code": "AF17"
+            },
+            {
+                "name": "Sene West District",
+                "code": "AF18"
+            },
+            {
+                "name": "Sunyani Municipal District",
+                "code": "AF19"
+            },
+            {
+                "name": "Sunyani West District",
+                "code": "AF20"
+            },
+            {
+                "name": "Tain District",
+                "code": "AF21"
+            },
+            {
+                "name": "Tano North District",
+                "code": "AF22"
+            },
+            {
+                "name": "Tano South District",
+                "code": "AF23"
+            },
+            {
+                "name": "Techiman Municipal District",
+                "code": "AF24"
+            },
+            {
+                "name": "Techiman North District",
+                "code": "AF25"
+            },
+            {
+                "name": "Wenchi Municipal District",
+                "code": "AF26"
+            }
+        ],
+        "CP": [
+            {
+                "name": "Abura/Asebu/Kwamankese District",
+                "code": "CP1"
+            },
+            {
+                "name": "Agona East District",
+                "code": "CP2"
+            },
+            {
+                "name": "Agona West Municipal District",
+                "code": "CP3"
+            },
+            {
+                "name": "Ajumako/Enyan/Essiam District",
+                "code": "CP4"
+            },
+            {
+                "name": "Asikuma/Odoben/Brakwa District",
+                "code": "CP5"
+            },
+            {
+                "name": "Assin North Municipal District",
+                "code": "CP6"
+            },
+            {
+                "name": "Assin South District",
+                "code": "CP7"
+            },
+            {
+                "name": "Awutu-Senya District",
+                "code": "CP8"
+            },
+            {
+                "name": "Awutu Senya East District",
+                "code": "CP9"
+            },
+            {
+                "name": "Cape Coast Metropolitan District",
+                "code": "CP10"
+            },
+            {
+                "name": "Effutu Municipal District",
+                "code": "CP11"
+            },
+            {
+                "name": "Ekumfi District",
+                "code": "CP12"
+            },
+            {
+                "name": "Gomoa East District",
+                "code": "CP13"
+            },
+            {
+                "name": "Gomoa West District",
+                "code": "CP14"
+            },
+            {
+                "name": "Komenda/Edina/Eguafo/Abirem Municipal District",
+                "code": "CP15"
+            },
+            {
+                "name": "Mfantsiman Municipal District",
+                "code": "CP16"
+            },
+            {
+                "name": "Twifo-Ati Mokwa District",
+                "code": "CP17"
+            },
+            {
+                "name": "Twifo/Heman/Lower Denkyira District",
+                "code": "CP18"
+            },
+            {
+                "name": "Upper Denkyira East Municipal District",
+                "code": "CP19"
+            }
+        ],
+        "EP": [
+            {
+                "name": "Upper Denkyira West District",
+                "code": "EP1"
+            },
+            {
+                "name": "Akuapim South District",
+                "code": "EP2"
+            },
+            {
+                "name": "Afram Plains South District",
+                "code": "EP3"
+            },
+            {
+                "name": "Akuapim North District",
+                "code": "EP4"
+            },
+            {
+                "name": "Akuapim South Municipal District",
+                "code": "EP5"
+            },
+            {
+                "name": "Akyemansa District",
+                "code": "EP6"
+            },
+            {
+                "name": "Asuogyaman District",
+                "code": "EP7"
+            },
+            {
+                "name": "Ayensuano District",
+                "code": "EP8"
+            },
+            {
+                "name": "Atiwa District",
+                "code": "EP9"
+            },
+            {
+                "name": "Birim Central Municipal District",
+                "code": "EP10"
+            },
+            {
+                "name": "Birim North District",
+                "code": "EP11"
+            },
+            {
+                "name": "Birim South District",
+                "code": "EP12"
+            },
+            {
+                "name": "Denkyembour District",
+                "code": "EP13"
+            },
+            {
+                "name": "East Akim Municipal District",
+                "code": "EP14"
+            },
+            {
+                "name": "Fanteakwa District",
+                "code": "EP15"
+            },
+            {
+                "name": "Kwaebibirem District",
+                "code": "EP16"
+            },
+            {
+                "name": "Kwahu East District",
+                "code": "EP17"
+            },
+            {
+                "name": "Kwahu North District",
+                "code": "EP18"
+            },
+            {
+                "name": "Kwahu South District",
+                "code": "EP19"
+            },
+            {
+                "name": "Kwahu West Municipal District",
+                "code": "EP20"
+            },
+            {
+                "name": "Lower Manya Krobo District",
+                "code": "EP21"
+            },
+            {
+                "name": "New-Juaben Municipal District",
+                "code": "EP22"
+            },
+            {
+                "name": "Suhum/Kraboa/Coaltar District",
+                "code": "EP23"
+            },
+            {
+                "name": "Upper Manya Krobo District",
+                "code": "EP24"
+            },
+            {
+                "name": "Upper West Akim District",
+                "code": "EP25"
+            },
+            {
+                "name": "West Akim Municipal District",
+                "code": "EP26"
+            },
+            {
+                "name": "Yilo Krobo District",
+                "code": "EP27"
+            }
+        ],
+        "AA": [
+            {
+                "name": "Accra Metropolitan District",
+                "code": "AA1"
+            },
+            {
+                "name": "Ada West District",
+                "code": "AA2"
+            },
+            {
+                "name": "Adenta Municipal District",
+                "code": "AA3"
+            },
+            {
+                "name": "Ashaiman Municipal District",
+                "code": "AA4"
+            },
+            {
+                "name": "Dangme East District",
+                "code": "AA5"
+            },
+            {
+                "name": "Dangme West District",
+                "code": "AA6"
+            },
+            {
+                "name": "Ga Central District",
+                "code": "AA7"
+            },
+            {
+                "name": "Ga East Municipal District",
+                "code": "AA8"
+            },
+            {
+                "name": "Ga South Municipal District",
+                "code": "AA9"
+            },
+            {
+                "name": "Ga West Municipal District",
+                "code": "AA10"
+            },
+            {
+                "name": "Kpone Katamanso District",
+                "code": "AA11"
+            },
+            {
+                "name": "La Dade Kotopon Municipal District",
+                "code": "AA12"
+            },
+            {
+                "name": "La Nkwantanang Madina District",
+                "code": "AA13"
+            },
+            {
+                "name": "Ledzokuku-Krowor Municipal District",
+                "code": "AA14"
+            },
+            {
+                "name": "Ningo Prampram District",
+                "code": "AA15"
+            },
+            {
+                "name": "Tema Metropolitan District",
+                "code": "AA16"
+            }
+        ],
+        "NP": [
+            {
+                "name": "Bole District",
+                "code": "NP1"
+            },
+            {
+                "name": "Bunkpurugu-Yunyoo District",
+                "code": "NP2"
+            },
+            {
+                "name": "Central Gonja District",
+                "code": "NP3"
+            },
+            {
+                "name": "Chereponi District",
+                "code": "NP4"
+            },
+            {
+                "name": "East Gonja District",
+                "code": "NP5"
+            },
+            {
+                "name": "East Mamprusi District",
+                "code": "NP6"
+            },
+            {
+                "name": "Gushegu District",
+                "code": "NP7"
+            },
+            {
+                "name": "Karaga District",
+                "code": "NP8"
+            },
+            {
+                "name": "Kpandai District",
+                "code": "NP9"
+            },
+            {
+                "name": "Kumbungu District",
+                "code": "NP10"
+            },
+            {
+                "name": "Mamprugo Moaduri District",
+                "code": "NP11"
+            },
+            {
+                "name": "Mion District",
+                "code": "NP12"
+            },
+            {
+                "name": "Nanumba North District",
+                "code": "NP13"
+            },
+            {
+                "name": "Nanumba South District",
+                "code": "NP14"
+            },
+            {
+                "name": "Saboba District",
+                "code": "NP15"
+            },
+            {
+                "name": "Sagnarigu District",
+                "code": "NP16"
+            },
+            {
+                "name": "Savelugu-Nanton District",
+                "code": "NP17"
+            },
+            {
+                "name": "Sawla-Tuna-Kalba District",
+                "code": "NP18"
+            },
+            {
+                "name": "Tamale Metropolitan District",
+                "code": "NP19"
+            },
+            {
+                "name": "Tatale Sangule District",
+                "code": "NP20"
+            },
+            {
+                "name": "Tolon District",
+                "code": "NP21"
+            },
+            {
+                "name": "West Gonja District",
+                "code": "NP22"
+            },
+            {
+                "name": "West Mamprusi District",
+                "code": "NP23"
+            },
+            {
+                "name": "Yendi Municipal District",
+                "code": "NP24"
+            },
+            {
+                "name": "Zabzugu District",
+                "code": "NP25"
+            }
+        ],
+        "UE": [
+            {
+                "name": "Bawku Municipal District",
+                "code": "UE1"
+            },
+            {
+                "name": "Bawku West District",
+                "code": "UE2"
+            },
+            {
+                "name": "Binduri District",
+                "code": "UE3"
+            },
+            {
+                "name": "Bolgatanga Municipal District",
+                "code": "UE4"
+            },
+            {
+                "name": "Bongo District",
+                "code": "UE5"
+            },
+            {
+                "name": "Builsa District",
+                "code": "UE6"
+            },
+            {
+                "name": "Builsa South District",
+                "code": "UE7"
+            },
+            {
+                "name": "Garu-Tempane District",
+                "code": "UE8"
+            },
+            {
+                "name": "Kassena Nankana East District",
+                "code": "UE9"
+            },
+            {
+                "name": "Kassena Nankana West District",
+                "code": "UE10"
+            },
+            {
+                "name": "Nabdam District",
+                "code": "UE11"
+            },
+            {
+                "name": "Pusiga District",
+                "code": "UE12"
+            },
+            {
+                "name": "Talensi District",
+                "code": "UE13"
+            },
+            {
+                "name": "Daffiama Bussie Issa District",
+                "code": "UE14"
+            },
+            {
+                "name": "Jirapa District",
+                "code": "UE15"
+            },
+            {
+                "name": "Lambussie Karni District",
+                "code": "UE16"
+            },
+            {
+                "name": "Lawra District",
+                "code": "UE17"
+            },
+            {
+                "name": "Nadowli District",
+                "code": "UE18"
+            },
+            {
+                "name": "Nandom District",
+                "code": "UE19"
+            },
+            {
+                "name": "Sissala East District",
+                "code": "UE20"
+            },
+            {
+                "name": "Sissala West District",
+                "code": "UE21"
+            },
+            {
+                "name": "Wa East District",
+                "code": "UE22"
+            },
+            {
+                "name": "Wa Municipal District",
+                "code": "UE23"
+            },
+            {
+                "name": "Wa West District",
+                "code": "UE24"
+            }
+        ],
+        "TV": [
+            {
+                "name": "Adaklu District",
+                "code": "TV1"
+            },
+            {
+                "name": "Afadjato South District",
+                "code": "TV2"
+            },
+            {
+                "name": "Agotime Ziope District",
+                "code": "TV3"
+            },
+            {
+                "name": "Akatsi North District",
+                "code": "TV4"
+            },
+            {
+                "name": "Akatsi South District",
+                "code": "TV5"
+            },
+            {
+                "name": "Biakoye District",
+                "code": "TV6"
+            },
+            {
+                "name": "Central Tongu District",
+                "code": "TV7"
+            },
+            {
+                "name": "Ho Municipal District",
+                "code": "TV8"
+            },
+            {
+                "name": "Ho West District",
+                "code": "TV9"
+            },
+            {
+                "name": "Hohoe Municipal District",
+                "code": "TV10"
+            },
+            {
+                "name": "Jasikan District",
+                "code": "TV11"
+            },
+            {
+                "name": "Kadjebi District",
+                "code": "TV12"
+            },
+            {
+                "name": "Keta Municipal District",
+                "code": "TV13"
+            },
+            {
+                "name": "Ketu North District",
+                "code": "TV14"
+            },
+            {
+                "name": "Ketu South Municipal District",
+                "code": "TV15"
+            },
+            {
+                "name": "Kpando Municipal District",
+                "code": "TV16"
+            },
+            {
+                "name": "Krachi East District",
+                "code": "TV17"
+            },
+            {
+                "name": "Krachi Nchumuru District",
+                "code": "TV18"
+            },
+            {
+                "name": "Krachi West District",
+                "code": "TV19"
+            },
+            {
+                "name": "Nkwanta North District",
+                "code": "TV20"
+            },
+            {
+                "name": "Nkwanta South District",
+                "code": "TV21"
+            },
+            {
+                "name": "North Dayi District",
+                "code": "TV22"
+            },
+            {
+                "name": "North Tongu District",
+                "code": "TV23"
+            },
+            {
+                "name": "South Dayi District",
+                "code": "TV24"
+            },
+            {
+                "name": "South Tongu District",
+                "code": "TV25"
+            }
+        ],
+        "WP": [
+            {
+                "name": "Ahanta West District",
+                "code": "WP1"
+            },
+            {
+                "name": "Aowin/Suaman District",
+                "code": "WP2"
+            },
+            {
+                "name": "Bia District",
+                "code": "WP3"
+            },
+            {
+                "name": "Bia East District",
+                "code": "WP4"
+            },
+            {
+                "name": "Bibiani/Anhwiaso/Bekwai District",
+                "code": "WP5"
+            },
+            {
+                "name": "Bodi District",
+                "code": "WP6"
+            },
+            {
+                "name": "Ellembele District",
+                "code": "WP7"
+            },
+            {
+                "name": "Jomoro District",
+                "code": "WP8"
+            },
+            {
+                "name": "Juabeso District",
+                "code": "WP9"
+            },
+            {
+                "name": "Mpohor District",
+                "code": "WP10"
+            },
+            {
+                "name": "Mpohor/Wassa East District",
+                "code": "WP11"
+            },
+            {
+                "name": "Nzema East Municipal District",
+                "code": "WP12"
+            },
+            {
+                "name": "Prestea-Huni Valley District",
+                "code": "WP13"
+            },
+            {
+                "name": "Sefwi Akontombra District",
+                "code": "WP14"
+            },
+            {
+                "name": "Sefwi-Wiawso District",
+                "code": "WP15"
+            },
+            {
+                "name": "Sekondi Takoradi Metropolitan Assembly",
+                "code": "WP16"
+            },
+            {
+                "name": "Shama District",
+                "code": "WP17"
+            },
+            {
+                "name": "Suaman District",
+                "code": "WP18"
+            },
+            {
+                "name": "Tarkwa-Nsuaem Municipal District",
+                "code": "WP19"
+            },
+            {
+                "name": "Wasa Amenfi East District",
+                "code": "WP20"
+            },
+            {
+                "name": "Wasa Amenfi West District",
+                "code": "WP21"
+            },
+            {
+                "name": "Wassa Amenfi Central District",
+                "code": "WP22"
+            }
+        ]
+    }
+}

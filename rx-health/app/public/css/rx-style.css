@@ -1,0 +1,424 @@
+/*
+Custom styles by rx devs
+*/
+.rx-font-size-sm{
+    font-size: smaller;
+  }
+
+  .rx-font-size-lg{
+    font-size: large;
+  }
+
+  .rx-pd-pic{
+      height: 150px;
+      width: 250px;
+  }
+
+  .icons-sm{
+    font-size:1.2rem;
+  }
+
+  .icons-base{
+    font-size:1.5rem;
+  }
+
+  .icons-large{
+    font-size:2.5rem;
+  }
+
+  .logo-card{
+    width:50px;height: 50px;
+  }
+
+  .rx-profile-bg{
+    height:160px;
+  }
+
+  .rx-profile-fill{
+    height:160px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .rx-profile-circle{
+    height:140px;
+    width: 140px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .rx-profile-bg-large{
+    height:200px;
+  }
+
+  .rx-profile-fill-large{
+    height:200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .table-img{
+    width: 60px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .ward-bed{
+    background: url(../images/misc/Bed.png) no-repeat left top;
+    background-size: 130% 120%;
+    opacity: 0.5;
+  }
+
+  .curved-line{
+    background: url(../images/misc/Vector25.png) no-repeat 160% 5%;
+    background-size:90% 27%;
+  }
+
+  /* Custom designs for accordions */
+  .accordion-body{
+    border: 1px solid #F0F2F3;
+    border-radius: 0 0 8px 8px;
+  }
+
+  .accordion-item{
+    border: none;
+    margin-bottom: 10px;
+  }
+
+  .accordion-header {
+    background-color: #F0F2F3;
+    border-radius: 10px;
+  }
+
+  .accordion-button {
+      padding: 10px;
+  }
+
+  .accordion-button:not(.collapsed){
+      background-color: #F0F2F3;
+      box-shadow: 0px 0px 0px 0px;
+  }
+
+  .accordion-button:focus{
+    border-color: #F0F2F3;
+    box-shadow: 0px 0px 0px 0px;
+  }
+
+  .accordion-button-bg{
+    background-color: #F0F2F3;
+  }
+
+  .rx-custom-alert-dark{
+    color: #3f414d;
+    border-color: #c3c8c8;
+    background-color: #f0efef;
+    border-radius: 10px;
+    padding: 0.5rem 1.5rem;
+  }
+
+  .rx-patient-profile-l{
+    border-radius: 25px 0 0 25px;
+  }
+
+  .badge-pill{
+    border-radius: 10rem;
+  }
+
+  /* display search icon next to a search input */
+  .input-icon {
+    position: relative;
+  }
+  .input-icon span {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: calc(1.5em + 1.3rem + 2px);
+  }
+  .input-icon span i {
+    line-height: 0;
+    color: #7E8299;
+  }
+  .input-icon span i:after, .input-icon span i:before {
+    line-height: 0;
+  }
+  .input-icon span .svg-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #7E8299;
+  }
+  .input-icon span .svg-icon svg:hover g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+  }
+  .input-icon span .svg-icon svg {
+    height: 24px;
+    width: 24px;
+  }
+  .input-icon .form-control {
+    padding-left: calc(1.5em + 1.3rem + 2px);
+  }
+  .input-icon.input-icon-right span {
+    right: 0;
+    left: auto;
+  }
+  .input-icon.input-icon-right .form-control {
+    padding-left: 1rem;
+    padding-right: calc(1.5em + 1.3rem + 2px);
+  }
+
+  .investigation-select{
+    padding:20px !important;
+  }
+
+  .rx-bg-silver{
+    background-color: #F4F7F8;
+  }
+
+  .rx-bg-azure{
+    background-color: #EAF1F2;
+  }
+
+  .rx-border-light-silver{
+    border: 1px solid #e7e6e6;
+  }
+
+  .rx-print-container {
+    max-width: 880px;
+    padding: 30px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+
+  .rx-print-pos-container {
+    max-width: 549px;
+    padding: 30px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+
+  .rx-print-container-full {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+
+  /* Fix bootstrap table forcing white-space to not wrap */
+  .th-inner {
+    white-space: normal !important;
+  }
+
+  .cursor-pointer {
+      cursor: pointer;
+   }
+
+  .rx-input-flex{
+    display: flex;
+  }
+
+  .rx-seablue-bar{
+    padding: 0 15px;
+  }
+
+  .rx-bg-seablue-color{
+    width: 100%;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    border: none;
+    background: #ceebee;
+  }
+
+  /* fix z-index issue with bs modals */
+  .select2-container {
+    /* z-index: 9999999 */
+  }
+
+  /* carousel main */
+  .carousel-inner{
+    border-radius: 20px !important;
+  }
+
+  /* items that switch */
+  .carousel-item {
+    height: 650px !important;
+  }
+
+  .carousel-item img {
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      min-height: 650px !important;
+  }
+
+  /* bootstrap indicators at the top */
+  .carousel-indicators{
+    top:0 !important;
+    margin-top: 10px;
+  }
+
+  /* bootstrap carousel dots */
+  .carousel-indicators .active {
+    background-color: rgba(2,167,196,255) !important;
+    border: 3px solid white !important;
+    height: 15px !important;
+    width: 15px !important;
+    margin: 0px 10px !important;
+  }
+
+  .carousel-indicators button {
+    height: 5px !important;
+    width: 5px !important;
+    margin: 5px 10px !important;
+    border-radius: 100%;
+    background-color: white !important;
+    border: 3px solid white !important;
+    opacity: 1 !important;
+    background-clip:border-box !important;
+  }
+
+  .carousel-caption{
+    background-image: linear-gradient(rgba(2,167,196,0), rgba(2,167,196,255));
+    padding-top: 5rem !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+  }
+
+  .rx-signup-width{
+    width: 75% !important;
+  }
+
+  #rx-change{
+    /* transition: transform 1s !important; */
+    animation: rxSlideDown 2.3s infinite;
+    display: inline-block;
+    width: 180px;
+  }
+
+  /* .rx-fade{
+    transform: translateY(100%) !important;
+    opacity: 0;
+  } */
+
+  .rx-dash-lists {
+    overflow-y: scroll;
+    /* hide the scrollbar */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  @keyframes rxSlideDown{
+    0%{
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    100%{
+      transform: translateY(0%);
+      opacity: 1;
+    }
+  }
+
+  .rx-gray-bg{
+    background-color: #fbfafa !important;
+  }
+
+  .rx-patient-rounded{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+  }
+
+  .rx-rounded-3{
+    border-radius: 15px !important;
+  }
+
+  .rx-rounded-5{
+    border-radius: 20px !important;
+  }
+
+  /* responsiveness for mobile */
+  @media (max-width: 992px) {
+    .rx-profile-bg{
+      height:250px;
+    }
+
+    .rx-profile-fill{
+      height:250px;
+      width: 100%;
+    }
+
+    .rx-profile-bg-large{
+      height:250px;
+    }
+
+    .rx-profile-fill-large{
+      height:250px;
+    }
+
+    .rx-patient-profile-l{
+      border-radius: 25px 25px 0 0;
+    }
+
+    .rx-seablue-bar{
+      width: 50%;
+    }
+
+    .rx-nav-pos-down{
+      top:80px !important;
+    }
+
+    .rx-signup-width{
+      width: 100% !important;
+    }
+
+    .curved-line{
+      background: url(../images/misc/Vector25.png) no-repeat 150% 0%;
+      background-size: 80% 15%;
+    }
+  }
+
+
+  @media (max-width: 479px) {
+    .rx-seablue-bar{
+      width: 100%;
+      margin: 15px 0 0;
+    }
+  }
+
+
+  /* hide selected elements with no-print class when in print mode */
+  @media print {
+    body{background-color: white;}
+    .mt-5{margin-top: 0;}
+
+    .printable{
+      width: 100%;
+    }
+
+    .no-print,
+    .no-print * {
+      display: none !important;
+     }
+
+    .rx-print-container-full {
+      max-width: 100%;
+    }
+  }

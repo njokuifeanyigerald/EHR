@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "format": "npx prettier --write resources/",
+        "check": "npx prettier --check resources/",
+        "dev": "npm run check && vite",
+        "build": "npm run check && npm run format && vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.1",
+        "laravel-vite-plugin": "^0.8.0",
+        "prettier": "^3.2.5",
+        "prettier-plugin-blade": "^2.1.13",
+        "vite": "^4.0.0"
+    }
+}
